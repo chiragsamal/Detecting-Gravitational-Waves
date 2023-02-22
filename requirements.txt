@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+h5py
+tqdm
+pydantic
+tensorflow
+scikit-learn
