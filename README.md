@@ -39,8 +39,8 @@ To use this repository, you can clone it using git:
 You can then run the code in each section using Jupyter notebooks.
 
 ## References
- - [[G2Net] Understand the Data](https://www.kaggle.com/code/siddhantsingh1/g2net-understand-the-data)
- - [G2Net: EDA That Gives You insights](https://www.kaggle.com/code/siddhantsingh1/g2net-eda-that-gives-you-insights)
+ - [[G2Net] Understand the Data](https://www.kaggle.com/code/ayuraj/g2net-understand-the-data)
+ - [G2Net: EDA That Gives You insights](https://www.kaggle.com/code/jcaliz/g2net-eda-that-gives-you-insights)
  - [G2Net Getting Started + EDA ](https://www.kaggle.com/code/edwardcrookenden/g2net-getting-started-eda)
  - [G2Net: Data and Augmentation](https://www.kaggle.com/code/maharshipandya/g2net-data-and-augmentation)
  - [G2Net Basic Audio Data Augmentation](https://www.kaggle.com/code/myso1987/g2net-basic-audio-data-augmentation)
