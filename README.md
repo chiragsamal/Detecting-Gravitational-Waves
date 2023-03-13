@@ -4,7 +4,7 @@
 Tutorial for detecting gravitational waves: A beginner's guide
 <img width="742" height="480" src="https://github.com/chiragsamal/Detecting-Gravitational-Waves/blob/main/images/planets.jpg" />
 
-
+Read blog on Detecting Gravitational Waves here: [G2Net: Unlocking the Secrets of the Universe](https://medium.com/analytics-vidhya/g2net-unlocking-the-secrets-of-the-universe-6a17baa6c756)
 ## Overview
 
 This repository contains code for detecting long-lasting gravitational wave signals using Short-Time Fourier Transforms (SFTs) data from two gravitational-wave interferometers (LIGO Hanford and LIGO Livingston). The goal is to build a model that is sensitive enough to distinguish between noisy data and weak but persistent signals emitted by rapidly rotating neutron stars. 
